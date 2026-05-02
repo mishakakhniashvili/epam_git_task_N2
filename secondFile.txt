@@ -8,3 +8,5 @@
 8
 9 changed by the git_1
 10 changed by the git_1
+9 CHANGED BY GIT_2
+10 CHANGED BY GIT_2
